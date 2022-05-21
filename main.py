@@ -17,9 +17,3 @@ def homepage():
 @app.route('/form', methods=['POST', 'GET'])
 def formpage():
     return render_template('form.html')
-
-
-def transform_and_process_data(df):
-    df.dropna(thresh=5, inplace=True)
-
-    player_fifa_api_id = df['player_fifa_api_id'].unique() 
