@@ -2,3 +2,18 @@
 ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/jithinharidaas)
+
+### Prerequisites
+
+You'll need:
+  * [Python 3.6](https://www.python.org/downloads/release/python-360/)
+  * [pip](https://pypi.org/project/pip/)
+
+To install the dependencies,
+```
+pip install -r requirements.txt`
+```
+
+### Author
+
+[**Jithin K Haridas**](https://twitter.com/jithinharidaas)
